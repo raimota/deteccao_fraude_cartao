@@ -1,5 +1,8 @@
 # Detecção de Fraudes em Transações de Cartão
 
+<p align=left>
+<img src="https://th.bing.com/th/id/OIG1.QuVRXmxERa3um7YNiLG8?w=1024&h=1024&rs=1&pid=ImgDetMain" width="60%"></p>
+
 ## Descrição do Projeto
 
 <p>Este projeto visa desenvolver e comparar modelos de machine learning para detectar fraudes em transações de cartão de crédito. Utilizamos técnicas de balanceamento de dados como SMOTE, ADASYN e Random Under-Sampling (RUS) para lidar com o desbalanceamento das classes e melhorar a performance dos modelos. Nosso objetivo principal é maximizar a detecção de fraudes (revocação) enquanto minimizamos falsos positivos.</p>
